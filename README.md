@@ -1,3 +1,14 @@
+           __   ______   __
+          /  \ /      \ |  \
+         /  $$|  $$$$$$\| $$  ______    ______   _______
+        /  $$ | $$   \$$| $$ /      \  |      \ |       \
+       /  $$  | $$      | $$|  $$$$$$\  \$$$$$$\| $$$$$$$\
+      /  $$   | $$   __ | $$| $$    $$ /      $$| $$  | $$
+ __  /  $$    | $$__/  \| $$| $$$$$$$$|  $$$$$$$| $$  | $$
+|  \|  $$      \$$    $$| $$ \$$     \ \$$    $$| $$  | $$
+ \$$ \$$        \$$$$$$  \$$  \$$$$$$$  \$$$$$$$ \$$   \$$
+
+
 File Sorting Program
 
 This program is designed to efficiently organize and categorize files within a specified directory or across multiple directories. It allows users to classify files based on various attributes such as file type, creation date, size, and even custom tags. The program sorts the files into user-defined folders or directories, helping to maintain a structured file system.
